@@ -8,11 +8,11 @@ package Liner.Task6;
 public class Сoordinates {
     public static void main(String[] args) {
         int x = 3;
-        int y = -4;
+        int y = -3;
 
-        if (((y >= -3 && y <= 0) && (x >= -4 && x <= 4)) || ((y >=0 && y <= 4) && (x >= -2 && x <= 2)))
-            System.out.println(true);
-        else
-            System.out.println(false);
+        boolean a = ((y >= -3 && y <= 0) && (x >= -4 && x <= 4)) || ((y >=0 && y <= 4) && (x >= -2 && x <= 2));
+
+        System.out.println(a);
+
     }
 }
