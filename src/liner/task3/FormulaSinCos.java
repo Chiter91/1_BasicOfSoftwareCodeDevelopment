@@ -1,4 +1,4 @@
-package Liner.Task3;
+package liner.task3;
 
 /*
 

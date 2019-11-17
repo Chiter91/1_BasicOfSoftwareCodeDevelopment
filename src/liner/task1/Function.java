@@ -1,9 +1,7 @@
-package Liner.Task1;
+package liner.task1;
 
 /*
-
 Найдите значение функции: z= ((a - 3) * b / 2) + c
-
  */
 
 public class Function {
